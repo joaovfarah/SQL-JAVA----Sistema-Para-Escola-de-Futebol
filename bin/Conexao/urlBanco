@@ -1,0 +1,3 @@
+private String url01 = "jdbc:sqlserver://daniel\\SQLEXPRESS01;"
+			+ "databaseName=EscolaDeFutebol; integratedSecurity=true;encrypt=false;";
+	
