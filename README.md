@@ -35,9 +35,9 @@ Acesse a classe `ConfigURL` para configurar as credenciais do seu banco.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/daniel-sd03">
+      <a href="https://github.com/joaovfarah">
         <sub>
-          <b>Daniel Sodré</b>
+          <b>João Victor Farah</b>
         </sub>
       </a>
     </td>
